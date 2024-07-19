@@ -1,3 +1,14 @@
+### Description
+
+This pull request adds the initial implementation of the weather application. The application allows users to search for weather information by city and displays the current weather conditions, including temperature, humidity, and weather description.
+
+### Changes
+
+- Created React components for the weather app
+- Styled the application using HTML, CSS, and JavaScript
+- Implemented API calls to fetch weather data
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
